@@ -1,0 +1,16 @@
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\bin\Debug\Incerrance.Common.dll
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\bin\Debug\Incerrance.Common.pdb
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\obj\Debug\Incerrance.Common.csprojAssemblyReference.cache
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\obj\Debug\Incerrance.Common.csproj.CoreCompileInputs.cache
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\obj\Debug\Incerrance.Common.dll
+F:\Insurrance\ShoeShopOnline\Incerrance.Common\obj\Debug\Incerrance.Common.pdb
+F:\Insurrance\Incerrance\Incerrance.Common\bin\Debug\Incerrance.Common.dll
+F:\Insurrance\Incerrance\Incerrance.Common\bin\Debug\Incerrance.Common.pdb
+F:\Insurrance\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.csproj.CoreCompileInputs.cache
+F:\Insurrance\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.dll
+F:\Insurrance\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.Common\bin\Debug\Incerrance.Common.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.Common\bin\Debug\Incerrance.Common.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.csproj.CoreCompileInputs.cache
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.Common\obj\Debug\Incerrance.Common.pdb

@@ -1,0 +1,294 @@
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.pdb
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csc.rsp
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\csi.rsp
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.AppContext.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Console.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Compression.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.AccessControl.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Claims.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.ValueTuple.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.rsp
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\BotDetect.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\BotDetect.Web.Mvc.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\CKFinder.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\EntityFramework.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Facebook.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\PagedList.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\WebGrease.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.pdb
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.pdb
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\CKFinder.pdb
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\EntityFramework.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Facebook.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\PagedList.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll.config
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.pdb
+F:\Insurrance\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Insurrance\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csprojAssemblyReference.cache
+F:\Insurrance\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CoreCompileInputs.cache
+F:\Insurrance\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CopyComplete
+F:\Insurrance\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.dll
+F:\Insurrance\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CoreCompileInputs.cache
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csprojAssemblyReference.cache
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csc.rsp
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\csi.rsp
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.AppContext.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Console.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Compression.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.AccessControl.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Claims.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.ValueTuple.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.rsp
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\BotDetect.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\BotDetect.Web.Mvc.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\CKFinder.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\EntityFramework.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Facebook.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\PagedList.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\WebGrease.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\CKFinder.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\EntityFramework.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Facebook.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\PagedList.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll.config
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.pdb
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CopyComplete
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.dll
+F:\Insurrance\Incerrance123\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.WebApp.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csc.exe.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csc.rsp
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csi.exe.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\csi.rsp
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.AppContext.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Console.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Compression.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Claims.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.ValueTuple.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.exe.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\vbc.rsp
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\BotDetect.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\BotDetect.Web.Mvc.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\CKFinder.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\EntityFramework.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Facebook.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\PagedList.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\WebGrease.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.Common.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Incerrance.Model.dll.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\CKFinder.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\EntityFramework.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\EntityFramework.SqlServer.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Facebook.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\PagedList.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\PagedList.Mvc.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Data.SQLite.dll.config
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Helpers.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Mvc.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Optimization.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.Razor.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\System.Web.WebPages.Razor.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Newtonsoft.Json.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Antlr3.Runtime.pdb
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csprojAssemblyReference.cache
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CoreCompileInputs.cache
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.csproj.CopyComplete
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.dll
+D:\Sam 3\New folder\Incerrance\Incerrance.WebApp\obj\Debug\Incerrance.WebApp.pdb

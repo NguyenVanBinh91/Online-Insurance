@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--banner-starts-->
+@{ Html.RenderAction("Slide", "Homes");}
+<!--banner-ends-->
+<!--Slider-Starts-Here-->
+<script src="~/Content/Client/js/responsiveslides.min.js"></script>
+<script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+        // Slideshow 4
+        $("#slider4").responsiveSlides({
+            auto: true,
+            pager: true,
+            nav: false,
+            speed: 500,
+            namespace: "callbacks",
+            before: function () {
+                $('.events').append("<li>before event fired.</li>");
+            },
+            after: function () {
+                $('.events').append("<li>after event fired.</li>");
+            }
+        });
+
+    });
+</script>
+<!--End-slider-script-->
+<!--start-banner-bottom-->
+<!--end-banner-bottom-->
+<!--start-shoes-->
+<div class="shoes">
+    <div class="container">
+        <div class="product-one">
+			<h1><b>Top 4 latest insurance</b> <hr /></h1>
+            @{ Html.RenderAction("LoadNormalInsurrance1", "Insurrance");}
+            <div class="clearfix"> </div>
+        </div>
+		<div class="product-one">
+			<h1><b>List of insurance products</b> <hr /></h1>
+			@{ Html.RenderAction("LoadNormalInsurranceCategory", "Insurrance");}
+			<div class="clearfix"> </div>
+		</div>
+    </div>
+</div>
+<hr />
+<!--end-shoes-->
+<!--start-abt-shoe-->
+<!--end-abt-shoe-->

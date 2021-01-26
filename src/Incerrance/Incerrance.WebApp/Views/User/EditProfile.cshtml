@@ -1,0 +1,66 @@
+﻿@model Incerrance.Model.DAL.User
+
+@{
+    ViewBag.Title = "Update user";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!--start-account-->
+<div class="account">
+    <div class="container">
+        <div class="account-bottom">
+            @using (Html.BeginForm("EditProfile", "User", FormMethod.Post))
+            {
+                <div class="col-md-12 account-left">
+
+                    @Html.AntiForgeryToken()
+                    <div class="account-top heading">
+						<h3>User Profile</h3>
+                    </div>
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.Id)
+                    @Html.HiddenFor(model => model.GroupId)
+                    @Html.HiddenFor(model => model.CreatedOn)
+                    @Html.HiddenFor(model => model.CreatedBy)
+
+                    <div class="col-md-6">
+                        <div class="address">
+                            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(model => model.UserName, new { @placeholder = "User name", @readonly = "readonly" })
+                        </div>
+                        <div class="address">
+                            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label" })
+                            @Html.PasswordFor(model => model.Password, new { @placeholder = "Password" })
+                        </div>
+                        <div class="address">
+                            @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label" })
+                            @Html.PasswordFor(model => model.ConfirmPassword, new { @placeholder = "Confirm Password" })
+                        </div>
+                        <div class="address">
+                            @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(model => model.Address, new { @placeholder = "Address" })
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="address">
+                            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(model => model.Email, new { @placeholder = "Email", @readonly = "readonly" })
+                        </div>
+                        <div class="address">
+                            @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(model => model.FirstName, new { @placeholder = "First Name" })
+                        </div>
+                        <div class="address">
+                            @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label" })
+                            @Html.TextBoxFor(model => model.LastName, new { @placeholder = "Last Name" })
+                        </div>
+                        <div class="address" style="margin-top:50px">
+                            <input type="submit" value="Update">
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!--end-account-->
